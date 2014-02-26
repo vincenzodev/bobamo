@@ -5,7 +5,7 @@
     "private": false,
     "keywords": ["express", "rest", "mers", "csvimport", "passport", "less", "mongoose", "mongodb", "imageupload"],
     "dependencies": {
-        "jqtpl": "latest",
+        "jqtpl": "1.1.0",
         "mongoose": "latest",
         "mers": "latest",
         "underscore": "latest",
