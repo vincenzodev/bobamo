@@ -5,7 +5,7 @@
     "private": false,
     "keywords": ["express", "rest", "mers", "csvimport", "passport", "less", "mongoose", "mongodb", "imageupload"],
     "dependencies": {
-        "jqtpl": "1.1.0",
+        "jqtpl": "git+https://github.com/kof/jqtpl.git",
         "mongoose": "latest",
         "mers": "latest",
         "underscore": "latest",
